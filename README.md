@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm Ana.
+
+I'm a Junior Full Stack Developer.
+
 
 <!--
 **AnaLR27/AnaLR27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
