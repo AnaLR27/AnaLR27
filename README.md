@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Ana.
 
-I'm a Junior Full Stack Developer.
+I'm a Full Stack Web Developer.
+Currently I'm Studing at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).
 
 ---
 
@@ -12,7 +13,6 @@ CSS3, Sass 🎨
 Bootstrap 🅱️
 JavaScript 🚀
 Frameworks like React ⚛️
-User interface design 🎨
 
 ---
 
