@@ -7,8 +7,8 @@ I'm a Junior Full Stack Developer.
 ### Frontend Skills
 In frontend, I have experience in:
 
-HTML 🌐
-CSS, Sass 🎨
+HTML5 🌐
+CSS3, Sass 🎨
 Bootstrap 🅱️
 JavaScript 🚀
 Frameworks like React ⚛️
