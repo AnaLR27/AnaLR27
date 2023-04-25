@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ana.
 
-I'm a Full Stack Web Developer.
-Currently I'm studing at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).
+I'm a Full Stack Web Developer.  
+I'm currently studing at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).
 
 ---
 
