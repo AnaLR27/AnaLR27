@@ -1,9 +1,18 @@
 ## Hi 👋, I'm Ana.
 
 I'm a Full Stack Web Developer. 
-I have passed the [selection process (Piscine)](https://github.com/AnaLR27/42-Piscine) and I'm currently studying at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).
-
+I have passed the [selection process (Piscine)](https://github.com/AnaLR27/42-Piscine) and I'm currently studying at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).  
+  
+  
 Here you can see what I'm working on:
+- [42 Cursus](https://github.com/AnaLR27/42-Cursus)
+- [My personal portfolio](https://github.com/AnaLR27/my-portfolio)
+- [Full Stack Web Aplication - MERN Stack](https://github.com/AnaLR27/-masterReact-victorRobles)  
+  
+
+[[HERE]](https://www.youtube.com/watch?v=c4gviraDhts&t=2869s&ab_channel=CODESPACE) you can see the exhibition of our project on Hiring Day.
+
+It starts from minute ***35:50***, previously the welcome screen is seen for those who entered the live. At minute ***48:00***, after my classmate's explanation of what we have done during the course, I show the functionality of our web application and at minute ***1:22:49*** I speak on a personal level about my part in the project.
 
 ---
 
