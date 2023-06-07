@@ -7,7 +7,7 @@ I have passed the [selection process (Piscine)](https://github.com/AnaLR27/42-Pi
 Here you can see what I'm working on:
 - [42 Cursus](https://github.com/AnaLR27/42-Cursus)
 - [My personal portfolio](https://alorenzodev.com)
-- [Full Stack Web Aplication - MERN Stack](https://github.com/AnaLR27/recipes-project-MERN)  
+- [Full Stack Web Aplication - MERN Stack](https://github.com/AnaLR27/recipes-project-MERN)
   
 
 [[HERE]](https://www.youtube.com/watch?v=c4gviraDhts&t=2869s&ab_channel=CODESPACE) you can see the exhibition of our project on Hiring Day.
