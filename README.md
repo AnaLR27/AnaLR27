@@ -1,12 +1,17 @@
 ## Hi 👋, I'm Ana.
 
 I'm a Full Stack Web Developer. 
-I have passed the [selection process (Piscine)](https://github.com/AnaLR27/42-Piscine) and I'm currently studying at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).  
-  
+
+Currently, I am pursuing a **Higher Degree in Web Application Development** to expand my knowledge and expertise in the field of programming.
+
+Previously, I completed a **Bootcamp in Full Stack Web Development**, focused on the **MERN Stack**, where I gained hands-on experience in building modern web applications.  
+
+I also passed the [selection process (Piscine)](https://github.com/AnaLR27/42-Piscine) and joined the training program at [Campus 42 Málaga - Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/).  
+
   
 Here you can see what I'm working on:
-- [42 Cursus](https://github.com/AnaLR27/42-Cursus)
 - [My personal portfolio](https://alorenzodev.com)
+- [42 Cursus](https://github.com/AnaLR27/42-Cursus)
 - [Full Stack Web Aplication - MERN Stack](https://github.com/AnaLR27/recipes-project-MERN)
   
 
@@ -34,10 +39,14 @@ API development 🚀
 Creating web servers using technologies like Node.js 🚀
 Relational and non-relational databases like MySQL 🐬 and MongoDB 🍃
 
+
+Other programming languages: **Java** ☕ and **Python** 🐍  
+
+
 ---
 
 Constantly Learning 📚
-I am passionate about continuous learning and always looking for new technologies and tools to improve my work. If you are looking for a developer with experience in both frontend and backend, feel free to contact me.
+I am passionate about continuous learning and always looking for new technologies and tools to improve my work.
 
 Thanks for reading! 😊
 
