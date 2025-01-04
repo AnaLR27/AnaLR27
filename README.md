@@ -24,20 +24,22 @@ It starts from minute ***35:50***, previously the welcome screen is seen for tho
 ### Frontend Skills
 In frontend, I have experience in:
 
-HTML5 🌐
-CSS3, Sass 🎨
-Bootstrap 🅱️
-JavaScript 🚀
-Frameworks like React ⚛️
+- **HTML5** 🌐  
+- **CSS3, Sass** 🎨  
+- **Bootstrap** 🅱️  
+- **JavaScript** 🚀  
+- Frameworks like **React** ⚛️  
 
 ---
 
 ### Backend Skills
 In backend, I have experience in:
 
-API development 🚀
-Creating web servers using technologies like Node.js 🚀
-Relational and non-relational databases like MySQL 🐬 and MongoDB 🍃
+- **API development** 🚀  
+- Creating web servers using technologies like **Node.js** 🚀  
+- Relational and non-relational databases like **MySQL** 🐬 and **MongoDB** 🍃  
+- **PHP** 🐘
+
 
 
 Other programming languages: **Java** ☕ and **Python** 🐍  
